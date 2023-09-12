@@ -7,7 +7,7 @@ for i in nums:
 print(nums)
 '''
 Mana ovog koda je njegova efikasnost jer ima slozenost O(n^2).
-For koji za i uzima vrednosti svakog elementa iz niza ima slozenost O(n),
+For koji za promenljivu i uzima vrednosti svakog elementa iz niza ima slozenost O(n),
 kao i provera if 0 in nums koja se vrsi za svaku iteraciju for petlje. 
 Zbog ugnjezdenja ukupna slozenost koja se dobija je O(n^2).
 
